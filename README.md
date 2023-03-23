@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 [Blog](https://khc-developer.tistory.com/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeongChank&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyeongChank&show_icons=true&theme=radical)
+
